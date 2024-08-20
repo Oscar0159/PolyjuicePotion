@@ -1,0 +1,4 @@
+name: PolyjuicePotion
+version: '1.0.0-SNAPSHOT'
+main: com.archerwn.polyjuicePotion.PolyjuicePotion
+api-version: '1.21'
